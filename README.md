@@ -1,4 +1,4 @@
-# Beige_Book
+# Beige Book
 
 # Executive Summary
 
